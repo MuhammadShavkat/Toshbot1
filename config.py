@@ -1,2 +1,0 @@
-open_w_token="7e0f9290ba78d3eac9093f7d1fc05a23"
-API_TOKEN = '5572425141:AAGBQicpj5xmgq2dyCSFTW54ijJtvU9MVk0'
