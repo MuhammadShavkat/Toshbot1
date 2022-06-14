@@ -11,7 +11,7 @@ Shaharlar = ReplyKeyboardMarkup(
 Shaharlar1=InlineKeyboardMarkup(
     inline_keyboard=[
         [
-            InlineKeyboardButton(text="Toshkent",callback_data="samarqand"),
+            InlineKeyboardButton(text="Toshkent",callback_data="Toshkent"),
             InlineKeyboardButton(text="Buxoro",callback_data="Bukhara"),
         ],
         [
